@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name stspin32f0-rescue)(type Legacy)(uri ${KIPRJMOD}/stspin32f0-rescue.lib)(options "")(descr ""))
+  (lib (name STSPIN32F0-rescue)(type Legacy)(uri ${KIPRJMOD}/STSPIN32F0-rescue.lib)(options "")(descr ""))
+  (lib (name STSPIN32F0)(type Legacy)(uri ${KIPRJMOD}/STSPIN32F0.lib)(options "")(descr ""))
+)
